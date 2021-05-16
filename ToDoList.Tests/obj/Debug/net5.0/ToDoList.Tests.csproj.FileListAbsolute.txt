@@ -96,3 +96,4 @@
 /Users/hr/code/ToDoList.Solution/ToDoList.Tests/obj/Debug/net5.0/ToDoList.Tests.genruntimeconfig.cache
 /Users/hr/code/ToDoList.Solution/ToDoList.Tests/bin/Debug/net5.0/ToDoList.Views.dll
 /Users/hr/code/ToDoList.Solution/ToDoList.Tests/bin/Debug/net5.0/ToDoList.Views.pdb
+/Users/hr/code/ToDoList.Solution/ToDoList.Tests/bin/Debug/net5.0/MySqlConnector.dll
